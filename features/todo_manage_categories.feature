@@ -1,3 +1,5 @@
+# Wyatt Pereira
+# 261113290
 Feature: Manage categories for a todo item
   As a user, I want to add or remove categories for a todo item to organize my tasks better.
 

@@ -1,3 +1,5 @@
+# Wyatt Pereira
+# 261113290
 Feature: Retrieve a specific todo item
   As a user, I want to retrieve a specific todo item using its ID to view its details.
 
